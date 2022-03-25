@@ -1,0 +1,31 @@
+body {
+    margin: 0 auto;
+    background: rgb(180, 212, 221);
+}
+.home {
+    margin-top: 140px;
+}
+.container {
+    width: 420px;
+
+}
+.marcador {
+    background: linear-gradient(50deg, rgb(7, 165, 112), rgb(11, 11, 241));
+    height: 380px;
+   
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+}
+
+.texto {
+    font-size: 1.1em;
+    color: rgb(7, 165, 112);
+}
+.botao{
+    background: rgb(7, 165, 112);
+}
+input.botao:hover{
+    background: rgb(2, 102, 69);
+    transition: 0.2s;
+}

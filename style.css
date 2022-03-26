@@ -1,5 +1,5 @@
 body {
-    margin: 0 auto;
+    
     background: rgb(180, 212, 221);
 }
 .home {
@@ -15,15 +15,17 @@ body {
    
     border-radius: 15px;
     text-align: center;
-    align-items: center;
+    
 }
 
 .texto {
-    font-size: 1.1em;
-    color: rgb(7, 165, 112);
+    font-size: 1em;
+    color: white;
 }
 .botao{
+    margin-top: 10px;
     background: rgb(7, 165, 112);
+    color: white;
 }
 input.botao:hover{
     background: rgb(2, 102, 69);
